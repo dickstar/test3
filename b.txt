@@ -12,5 +12,6 @@ function d() {
 	echo "asdf";
 }
 function e() {
-	echo "good2";
+	echo "good22";
+	echo "asdf";
 }
