@@ -10,3 +10,5 @@ function c() {
 dickstar
 function d() {
 }
+function e() {
+}
