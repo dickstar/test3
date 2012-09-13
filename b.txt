@@ -9,6 +9,7 @@ function c() {
 }
 dickstar
 function d() {
+	echo "asdf";
 }
 function e() {
 }
