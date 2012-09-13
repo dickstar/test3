@@ -12,4 +12,5 @@ function d() {
 	echo "asdf";
 }
 function e() {
+	echo "good";
 }
