@@ -8,3 +8,5 @@ function c() {
 
 }
 dickstar
+function d() {
+}
