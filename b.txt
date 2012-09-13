@@ -2,4 +2,4 @@ function a() {
 }
 function b() {
 }
-andylau and dick
+andylau
