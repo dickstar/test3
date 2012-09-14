@@ -1,0 +1,17 @@
+function a() {
+}
+function b() {
+}
+
+andylau and dick
+function c() {
+
+}
+dickstar
+function d() {
+	echo "asdf";
+}
+function e() {
+	echo "good22";
+	echo "asdf";
+}
