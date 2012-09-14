@@ -2,4 +2,5 @@ function a() {
 	add new math.
 }
 function b() {
+	ok
 }
