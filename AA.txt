@@ -1,6 +1,7 @@
 csl
 f4
-
+function hello() {
+}
 1a4
 ok5
 asdf6
