@@ -1,7 +1,5 @@
 function a() {
 }
-function b() {
-}
 
 andylau and dick
 function c() {
